@@ -1,0 +1,10 @@
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.exe.config
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.Properties.Resources.resources
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.exe
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.pdb
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.exe
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.pdb
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.dailyExpenseAppForm.resources
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\bin\Debug\CSVLib.dll
+C:\Users\PC21\Desktop\Harun\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.csprojResolveAssemblyReference.cache
